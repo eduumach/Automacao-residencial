@@ -3,7 +3,7 @@ Meu trabalho de irrigação para feira de ciencias
 
 -**O que eu vou fazer**
 
-- [x] Fazer o algoritimo.
+- [x] Fazer o algoritmo.
 - [ ] Testar o algoritimo direto no arduino.
 - [ ] Colcar pra funcionar uma semana antes.
 - [ ] Pensar como poderar ser aplicado nas casas.
