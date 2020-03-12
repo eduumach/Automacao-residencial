@@ -1,13 +1,10 @@
 # Feira-de-ciencias
-Meu trabalho de irrigação para feira de ciencias
+Meu trabalho de Automação Residencial
 
 -**O que eu vou fazer**
 
 - [x] Fazer o algoritmo.
-- [ ] Testar o algoritimo direto no arduino.
-- [ ] Colcar pra funcionar uma semana antes.
-- [ ] Pensar como poderar ser aplicado nas casas.
-- [ ] Preocuar o preço e ver quanto fca o orçamento.
-- [ ] Fazer o papel para imprimir para entregar paras pessoas. 
-- [ ] Fazer um sistema no data show.
+- [x] Testar o algoritimo direto no arduino.
+- [ ] Implemantar com o bot.
+- [ ] Encontrar os preço e ver quanto fica o orçamento.
 - [ ] Apresentar no dia.
