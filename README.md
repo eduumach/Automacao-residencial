@@ -1,10 +1,15 @@
-# Feira-de-ciencias
-Meu trabalho de Automação Residencial
+# Automação Residencial
+Meu projeto de Automação Residencial
 
 -**O que eu vou fazer**
 
-- [x] Fazer o algoritmo.
-- [x] Testar o algoritimo direto no arduino.
-- [ ] Implemantar com o bot.
-- [ ] Encontrar os preço e ver quanto fica o orçamento.
-- [ ] Apresentar no dia.
+- [x] Sistema de irrigação automático
+- [ ] Sistema para acender as luzes
+- [ ] Verificar a humidade do ar
+- [ ] Verificar o quanto choveu
+- [ ] Salvar as dados
+- [ ] Um software para controlar pelo Pc
+- [ ] Um software para controlar pelo Celular
+- [ ] Um software para controlar pela Web
+
+*OBS: PROJETO PARADO*
