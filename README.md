@@ -3,6 +3,8 @@ Meu projeto de Automação Residencial
 
 -**O que eu vou fazer**
 
+***Consegui uma Alexa, vou fazer algo com ela***
+
 - [x] Sistema de irrigação automático
 - [ ] Sistema para acender as luzes
 - [ ] Verificar a humidade do ar
